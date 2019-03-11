@@ -293,7 +293,6 @@ textarea {
 
 /* bg https://cssgradient.io/ https://digitalsynopsis.com/design/minimal-web-color-palettes-combination-hex-code/ */
 body {
-    width: 100%;
     font-family: 'Roboto', sans-serif;
     color: white;
     background: rgb(248,177,149);
